@@ -1,4 +1,4 @@
-# Chat_App1
+# Chatter_Py
 This is a Chat App made by using Python and concepts of Socket Programming &amp; Multithreading in which 2 VM's can chat with each other
 Task Description:
 
